@@ -30,7 +30,7 @@ HTML / CSS (Jinja templates)
 
 Clone or download this project:
 
-git clone https://github.com/<Ryan51-cpu>/online-library.git
+git clone https://github.com/Ryan51-cpu/online-library.git
 cd online-library
 
 
@@ -62,4 +62,5 @@ python manage.py runserver
 
 
 Open the app in your browser:
+
 👉 http://127.0.0.1:8000/
